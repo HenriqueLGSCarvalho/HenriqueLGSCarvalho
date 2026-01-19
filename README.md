@@ -7,9 +7,11 @@ Originally I am from Brazil, but have been living in Massachussets since I was s
 In my free time I enjoy watching/playing soccer, coding, chess, playing board games, and spending time with loved ones
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Technologies and Tools
-
+##⚡Technologies and Tools
 Programming: Java, Python, Racket, Lua, Luau
+OS: Windows, Linux
+Software: IntelliJ, Eclipse, PyCharm, JupyterNotebook, DrRacket, Roblox Studios
+Other: Google Workspace
 
 
 <!--
