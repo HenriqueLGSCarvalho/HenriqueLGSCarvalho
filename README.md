@@ -4,7 +4,7 @@ I'm a **Computer Science** student at **Northeastern University**, passionate ab
 
 Originally I am from Brazil, but have been living in Massachussets since I was seven years old. I speak fluent **English** and **Portugese**, and I'm also proficient in **Spanish**.
 
-In my free time I enjoy watching/playing soccer, coding, chess, playing board games, and spending time with loved ones
+In my free time I enjoy watching/playing soccer, coding, playing chess, playing board games, and spending time with loved ones
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## ⚡ Technologies and Tools
