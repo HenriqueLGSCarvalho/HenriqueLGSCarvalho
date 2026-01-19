@@ -8,9 +8,12 @@ In my free time I enjoy watching/playing soccer, coding, chess, playing board ga
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## ⚡ Technologies and Tools
-<p> **Programming**: Java, Python, Racket, Lua, Luau
-<p> OS: Windows, Linux
+**Programming**: Java, Python, Racket, Lua, Luau
+  
+**OS**: Windows, Linux
+  
 <p> Software: IntelliJ, Eclipse, PyCharm, JupyterNotebook, DrRacket, Roblox Studios
+  
 <p> Other: Google Workspace
 
 
