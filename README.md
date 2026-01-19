@@ -5,16 +5,16 @@ I'm a Computer Science student at Northeastern University, passionate about soft
 Originally I am from Brazil, but have been living in Massachussets since I was seven years old. I speak fluent English and Portugese, and I'm also proficient in Spanish.
 
 In my free time I enjoy watching/playing soccer, coding, chess, playing board games, and spending time with loved ones
-_______________________________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## ⚡ Technologies and Tools
 **Programming**: Java, Python, Racket, Lua, Luau
   
 **OS**: Windows, Linux
   
-<p> Software: IntelliJ, Eclipse, PyCharm, JupyterNotebook, DrRacket, Roblox Studios
+**Software**: IntelliJ, Eclipse, PyCharm, JupyterNotebook, DrRacket, Roblox Studios
   
-<p> Other: Google Workspace
+**Other**: Google Workspace
 
 
 <!--
