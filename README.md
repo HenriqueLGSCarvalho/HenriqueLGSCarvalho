@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Henrique Carvalho
 
-I'm a Computer Science student at Northeastern University, passionate about software development and its impacts. Software is everywhere, my goalis to build truly great programs that can help and be convienent to millions of people.
+I'm a Computer Science student at Northeastern University, passionate about software development and its impacts. Software is everywhere and its impacts are huge, my goal is to be able to build truly great programs that can help and bring joy to millions of people.
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
