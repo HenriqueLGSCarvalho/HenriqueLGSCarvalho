@@ -9,9 +9,9 @@ ________________________________________________________________________________
 
 ## ⚡ Technologies and Tools
 Programming: Java, Python, Racket, Lua, Luau
-OS: Windows, Linux
-Software: IntelliJ, Eclipse, PyCharm, JupyterNotebook, DrRacket, Roblox Studios
-Other: Google Workspace
+<p> OS: Windows, Linux
+<p> Software: IntelliJ, Eclipse, PyCharm, JupyterNotebook, DrRacket, Roblox Studios
+<p> Other: Google Workspace
 
 
 <!--
