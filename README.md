@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Henrique Carvalho
+# Hi there! 👋 I'm Henrique Carvalho
 
 I'm a **Computer Science** student at **Northeastern University**, passionate about **software development** and its impacts. Software is everywhere and its impacts are huge, my goal is to be able to build truly great programs that can help and bring joy to millions of people.
 
@@ -7,12 +7,12 @@ Originally I am from Brazil, but have been living in Massachusetts for most of m
 In my free time I enjoy watching/playing soccer, coding, playing chess, playing board games, and spending time with loved ones
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 # Education
-Northeastern University
+## Northeastern University
 - Courses: ... ... ...
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## ⚡ Technologies and Tools
+# ⚡ Technologies and Tools
 **Programming**: Java, JavaScript, Python, Racket, Lua, Luau
   
 **OS**: Windows, Linux
