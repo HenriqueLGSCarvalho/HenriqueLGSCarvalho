@@ -6,6 +6,11 @@ Originally I am from Brazil, but have been living in Massachusetts for most of m
 
 In my free time I enjoy watching/playing soccer, coding, playing chess, playing board games, and spending time with loved ones
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
+# Education
+- Northeastern University
+- Courses: ... ... ...
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## ⚡ Technologies and Tools
 **Programming**: Java, JavaScript, Python, Racket, Lua, Luau
