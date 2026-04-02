@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=00FFFF&height=300&section=header&text=Henrique%20Carvalho&fontSize=90&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=blur&color=00FFFF&height=250&section=header&text=Henrique%20Carvalho&fontSize=90&fontColor=FFFFFF)
 
 # :wave: About Me
 I'm a **Computer Science** student at **Northeastern University**, passionate about **software development** and its impacts. Software is everywhere and its impacts are huge, my goal is to be able to build truly great programs that can help and bring joy to millions of people.
