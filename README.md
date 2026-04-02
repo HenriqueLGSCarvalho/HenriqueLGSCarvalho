@@ -8,7 +8,7 @@ In my free time I enjoy watching/playing soccer, coding, playing chess, playing 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## ⚡ Technologies and Tools
-**Programming**: Java, javaScript, Python, Racket, Lua, Luau
+**Programming**: Java, JavaScript, Python, Racket, Lua, Luau
   
 **OS**: Windows, Linux
   
