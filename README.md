@@ -14,6 +14,7 @@ ________________________________________________________________________________
 
 # ⚡ Technologies and Tools
 **Programming**: Java, JavaScript, Python, Racket, Lua, Luau
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   
 **OS**: Windows, Linux
   
