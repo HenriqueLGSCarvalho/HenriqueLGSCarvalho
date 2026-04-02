@@ -1,8 +1,5 @@
 # Hi there! 👋 I'm Henrique Carvalho
 
-- **University:** Northeastern University
-- **Major:** Computer Science
-
 I'm a **Computer Science** student at **Northeastern University**, passionate about **software development** and its impacts. Software is everywhere and its impacts are huge, my goal is to be able to build truly great programs that can help and bring joy to millions of people.
 
 Originally I am from Brazil, but have been living in Massachusetts for most of my life. I speak fluent **English** and **Portuguese**, and I'm also proficient in **Spanish**.
@@ -11,7 +8,7 @@ In my free time I enjoy watching/playing soccer, coding, playing chess, playing 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 # Education
 ### Northeastern University
-- Courses ... ... ...
+-  **Major:** Computer Science
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
